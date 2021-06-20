@@ -1,0 +1,36 @@
+{
+  "homepage": "https://github.com/rpiveteau/Maps-Export",
+  "name": "maps-export",
+  "version": "1.0.4",
+  "description": "Simple Node project to export data from google my maps to geojson",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "tsc"
+  },
+  "author": "Romain PIVETEAU",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^15.3.0",
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.1.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rpiveteau/Maps-Export.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rpiveteau/Maps-Export/issues",
+    "mail": ""
+  },
+  "keywords": [
+    "maps",
+    "export",
+    "google maps",
+    "my maps",
+    "kml",
+    "geosjson"
+  ]
+}
