@@ -1,7 +1,7 @@
 {
   "homepage": "https://github.com/rpiveteau/Maps-Export",
   "name": "maps-export",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Simple Node project to export data from google my maps to geojson",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
